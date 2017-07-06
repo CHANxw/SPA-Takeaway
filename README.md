@@ -1,6 +1,7 @@
 SPA-Takeaway
 =========
 >这是一个仿饿了么用户端的移动web app [感谢慕课](http://coding.imooc.com/class/74.html)
+
 主要依赖
 =========
 个人实现从Vue1.0到2.0的升级
